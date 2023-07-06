@@ -7,3 +7,10 @@ body {
         background: green !important;
     }
 }
+
+
+@media (min-width: 540px) {
+    body {
+        background: blue !important;
+    }
+}
